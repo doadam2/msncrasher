@@ -1,0 +1,11 @@
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\bin\Release\msnlocker.exe
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\bin\Release\msnlocker.pdb
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\C++\msncrasher\msncrasher\Release\msnlocker.exe.config
+E:\Projects\C++\msncrasher\msncrasher\Release\msnlocker.exe
+E:\Projects\C++\msncrasher\msncrasher\Release\msnlocker.pdb
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\msnlocker.exe
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\msnlocker.pdb
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\msnlocker.Resource1.resources
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\ResGen.read.1.tlog
+E:\Projects\C++\msncrasher\msncrasher\msnlocker\obj\x86\Release\ResGen.write.1.tlog

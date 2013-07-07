@@ -1,0 +1,27 @@
+﻿Build started 27-Feb-11 8:31:13 PM.
+     1>Project "E:\Projects\C++\msncrasher\msncrasher\senderinjection\senderinjection.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\senderinjection.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SENDERINJECTION_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DllMain.cpp
+         DllMain.cpp
+     1>DllMain.cpp(105): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _ltoa. See online help for details.
+                 e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(868) : see declaration of 'ltoa'
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\C++\msncrasher\msncrasher\Release\senderinjection.dll" /INCREMENTAL:NO /NOLOGO Ws2_32.lib shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\senderinjection.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Projects\C++\msncrasher\msncrasher\Release\senderinjection.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\C++\msncrasher\msncrasher\Release\senderinjection.lib" /MACHINE:X86 /DLL Release\senderinjection.res
+         Release\DllMain.obj
+         Generating code
+         Finished generating code
+         senderinjection.vcxproj -> E:\Projects\C++\msncrasher\msncrasher\Release\senderinjection.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Projects\C++\msncrasher\msncrasher\Release\senderinjection.dll;#2" /manifest Release\senderinjection.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\senderinjection.unsuccessfulbuild".
+         Touching "Release\senderinjection.lastbuildstate".
+     1>Done Building Project "E:\Projects\C++\msncrasher\msncrasher\senderinjection\senderinjection.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.21

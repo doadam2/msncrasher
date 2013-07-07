@@ -1,0 +1,24 @@
+﻿Build started 27-Feb-11 8:30:57 PM.
+     1>Project "E:\Projects\C++\msncrasher\msncrasher\msnloader\msnloader\msnloader.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\msnloader.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\C++\msncrasher\msncrasher\Release\msnloader.exe" /INCREMENTAL:NO /NOLOGO gdiplus.lib shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\msnloader.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Projects\C++\msncrasher\msncrasher\Release\msnloader.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\C++\msncrasher\msncrasher\Release\msnloader.lib" /MACHINE:X86 Release\msnloader.res
+         Release\GDI.obj
+         Release\GUI.obj
+         Release\Injection.obj
+         msnloader.vcxproj -> E:\Projects\C++\msncrasher\msncrasher\Release\msnloader.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Projects\C++\msncrasher\msncrasher\Release\msnloader.exe;#1" /manifest Release\msnloader.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\msnloader.unsuccessfulbuild".
+         Touching "Release\msnloader.lastbuildstate".
+     1>Done Building Project "E:\Projects\C++\msncrasher\msncrasher\msnloader\msnloader\msnloader.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.45

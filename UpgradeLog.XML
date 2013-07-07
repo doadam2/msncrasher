@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="msncrasher">
+</Property><Property Name="Solution File" Value="E:\Projects\C++\msncrasher\msncrasher\msncrasher.sln">
+</Property><Property Name="User Options File" Value="E:\Projects\C++\msncrasher\msncrasher\msncrasher.suo">
+</Property><Property Name="Date" Value="Sunday, May 02, 2010">
+</Property><Property Name="Time" Value="23:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="msncrasher.sln" Description="File successfully backed up as E:\Projects\C++\msncrasher\msncrasher\msncrasher.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="msncrasher.suo" Description="File successfully backed up as E:\Projects\C++\msncrasher\msncrasher\msncrasher.suo.old">
+</Event><Event ErrorLevel="0" Project="msncrasher" Source="msncrasher\msncrasher.vcproj" Description="Converting project file 'E:\Projects\C++\msncrasher\msncrasher\msncrasher\msncrasher.vcproj'.">
+</Event><Event ErrorLevel="1" Project="msncrasher" Source="msncrasher\msncrasher.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="msncrasher" Source="msncrasher\msncrasher.vcproj" Description="Done converting to new project file 'E:\Projects\C++\msncrasher\msncrasher\msncrasher\msncrasher.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="msncrasher" Source="msncrasher\msncrasher.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="senderinjection" Source="senderinjection\senderinjection.vcproj" Description="Converting project file 'E:\Projects\C++\msncrasher\msncrasher\senderinjection\senderinjection.vcproj'.">
+</Event><Event ErrorLevel="1" Project="senderinjection" Source="senderinjection\senderinjection.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="senderinjection" Source="senderinjection\senderinjection.vcproj" Description="Done converting to new project file 'E:\Projects\C++\msncrasher\msncrasher\senderinjection\senderinjection.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="senderinjection" Source="senderinjection\senderinjection.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="crashprotector" Source="protector\crashprotector\crashprotector.vcproj" Description="Converting project file 'E:\Projects\C++\msncrasher\msncrasher\protector\crashprotector\crashprotector.vcproj'.">
+</Event><Event ErrorLevel="1" Project="crashprotector" Source="protector\crashprotector\crashprotector.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="crashprotector" Source="protector\crashprotector\crashprotector.vcproj" Description="Done converting to new project file 'E:\Projects\C++\msncrasher\msncrasher\protector\crashprotector\crashprotector.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="crashprotector" Source="protector\crashprotector\crashprotector.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="msnspammer" Source="spammer\msnspammer\msnspammer.vcproj" Description="Converting project file 'E:\Projects\C++\msncrasher\msncrasher\spammer\msnspammer\msnspammer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="msnspammer" Source="spammer\msnspammer\msnspammer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="msnspammer" Source="spammer\msnspammer\msnspammer.vcproj" Description="Done converting to new project file 'E:\Projects\C++\msncrasher\msncrasher\spammer\msnspammer\msnspammer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="msnspammer" Source="spammer\msnspammer\msnspammer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="msncrasher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="msncrasher.sln" Description="Converted">
+</Event></UpgradeLog>

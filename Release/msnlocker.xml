@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <input>
+    <asmlist>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="E:\Projects\C++\msncrasher\msncrasher\Release" name="msnlocker.exe" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="${configdir}\Dotfuscated" />
+  </output>
+  <renaming>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+  <controlflow level="high" />
+  <stringencrypt>
+    <option>disable</option>
+    <includelist>
+      <assembly>
+        <file dir="E:\Projects\C++\msncrasher\msncrasher\Release" name="msnlocker.exe" />
+      </assembly>
+    </includelist>
+  </stringencrypt>
+  <codeprotection />
+  <removal>
+    <option>disable</option>
+    <triggerlist>
+      <assembly>
+        <file dir="E:\Projects\C++\msncrasher\msncrasher\Release" name="msnlocker.exe" />
+      </assembly>
+    </triggerlist>
+  </removal>
+  <licensing>
+    <permutation name="" />
+    <product versionmask="revision" />
+    <nolicenseaction name="showactivation" />
+    <unlockingfeature name="" />
+  </licensing>
+  <extattributes />
+</dotfuscator>

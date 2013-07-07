@@ -1,0 +1,20 @@
+﻿Build started 27-Feb-11 8:31:37 PM.
+     1>Project "E:\Projects\C++\msncrasher\msncrasher\msncrasher\msncrasher.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\msncrasher.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         msncrasher.vcxproj -> E:\Projects\C++\msncrasher\msncrasher\Release\msncrasher.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\msncrasher.unsuccessfulbuild".
+         Touching "Release\msncrasher.lastbuildstate".
+     1>Done Building Project "E:\Projects\C++\msncrasher\msncrasher\msncrasher\msncrasher.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18

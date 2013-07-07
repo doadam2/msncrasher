@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msncrasher", "msncrasher\msncrasher.vcproj", "{395080FD-CC08-4A93-B1A7-A221A19CC87E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "senderinjection", "senderinjection\senderinjection.vcproj", "{6063E534-C4AB-4377-AE7E-E8206D0052C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crashprotector", "protector\crashprotector\crashprotector.vcproj", "{4E9FA74E-D4A0-449A-9E22-EDA9BAAF90E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msnspammer", "spammer\msnspammer\msnspammer.vcproj", "{D723F84B-0F21-46D7-BE14-D1C9C3AED41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395080FD-CC08-4A93-B1A7-A221A19CC87E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{395080FD-CC08-4A93-B1A7-A221A19CC87E}.Debug|Win32.Build.0 = Debug|Win32
+		{395080FD-CC08-4A93-B1A7-A221A19CC87E}.Release|Win32.ActiveCfg = Release|Win32
+		{395080FD-CC08-4A93-B1A7-A221A19CC87E}.Release|Win32.Build.0 = Release|Win32
+		{6063E534-C4AB-4377-AE7E-E8206D0052C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6063E534-C4AB-4377-AE7E-E8206D0052C5}.Debug|Win32.Build.0 = Debug|Win32
+		{6063E534-C4AB-4377-AE7E-E8206D0052C5}.Release|Win32.ActiveCfg = Release|Win32
+		{6063E534-C4AB-4377-AE7E-E8206D0052C5}.Release|Win32.Build.0 = Release|Win32
+		{4E9FA74E-D4A0-449A-9E22-EDA9BAAF90E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E9FA74E-D4A0-449A-9E22-EDA9BAAF90E2}.Debug|Win32.Build.0 = Debug|Win32
+		{4E9FA74E-D4A0-449A-9E22-EDA9BAAF90E2}.Release|Win32.ActiveCfg = Release|Win32
+		{4E9FA74E-D4A0-449A-9E22-EDA9BAAF90E2}.Release|Win32.Build.0 = Release|Win32
+		{D723F84B-0F21-46D7-BE14-D1C9C3AED41C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D723F84B-0F21-46D7-BE14-D1C9C3AED41C}.Debug|Win32.Build.0 = Debug|Win32
+		{D723F84B-0F21-46D7-BE14-D1C9C3AED41C}.Release|Win32.ActiveCfg = Release|Win32
+		{D723F84B-0F21-46D7-BE14-D1C9C3AED41C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

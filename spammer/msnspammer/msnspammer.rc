@@ -1,0 +1,125 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 170, 90, 247, 183
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Endlesskiss's MSN Spammer"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Programmed by Endlesskiss©",IDC_STATIC,144,168,96,8
+    GROUPBOX        "Socket",IDC_STATIC1,17,17,85,22,BS_CENTER
+    CTEXT           "NULL",IDC_SOCKET,23,27,75,8
+    PUSHBUTTON      "Lock-on",IDC_LOCKON,113,23,50,14
+    GROUPBOX        "Nudge Method",IDC_STATIC,15,59,84,87
+    PUSHBUTTON      "Infinite Nudge",IDC_BUTTON2,29,73,50,14
+    CONTROL         "",NUDGE_PROGRESS,"msctls_progress32",NOT WS_VISIBLE | WS_BORDER,20,129,76,14
+    EDITTEXT        IDC_EDIT1,54,91,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "Amount:",IDC_STATIC,19,94,28,8
+    PUSHBUTTON      "Start Nudging!",IDC_BUTTON3,29,110,53,14
+    GROUPBOX        "Spam Method",IDC_STATIC,117,59,102,88
+    EDITTEXT        IDC_TEXT,147,75,64,24,ES_MULTILINE | ES_AUTOHSCROLL
+    LTEXT           "Text:",IDC_STATIC,122,78,18,8
+    LTEXT           "Times to send:",IDC_STATIC,121,103,48,8
+    EDITTEXT        IDC_EDIT3,169,100,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    PUSHBUTTON      "Start Spam!",IDC_BUTTON4,142,116,50,14
+    CONTROL         "",SPAM_PROGRESS,"msctls_progress32",NOT WS_VISIBLE | WS_BORDER,128,131,80,14
+    PUSHBUTTON      "Remove Lock-on",IDC_REMOVELOCKON,167,23,58,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 240
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 176
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Hebrew resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_HEB)
+#ifdef _WIN32
+LANGUAGE LANG_HEBREW, SUBLANG_DEFAULT
+#pragma code_page(1255)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Hebrew resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
